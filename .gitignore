@@ -3,3 +3,4 @@ files/maps
 .idea
 *.iml
 .DS_Store
+.webloc
